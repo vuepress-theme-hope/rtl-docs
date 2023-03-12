@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://plugin-remove-pwa.vuejs.press/sitemap.xml
